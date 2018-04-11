@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Jns.Licenca
 {
-    public class Class1
+    public class TipoDeLicenca
     {
+        public string TRIAL { get; set; }
     }
 }
